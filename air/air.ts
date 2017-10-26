@@ -5,7 +5,6 @@
  * @returns {number}
  */
 function air(r: number) : number {
-    //let pi = 3.14;
     let pi = Math.PI;
 
     return pi*Math.pow(r,2);

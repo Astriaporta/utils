@@ -7,7 +7,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
  * @returns {number}
  */
 function air(r) {
-    //let pi = 3.14;
     var pi = Math.PI;
     return pi * Math.pow(r, 2);
 }
